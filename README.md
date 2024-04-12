@@ -31,6 +31,9 @@ Analyzed the model's performance metrics and interpreted the results.
 Visualized key metrics such as accuracy, loss, precision-recall curve, and confusion matrix.
 Derived insights and actionable recommendations for reducing customer churn.
 Getting Started
+
+Here I have also deployed this project at local hosting through Flask:
+
 To replicate the results of this project or explore the implementation further, follow these steps:
 
 Clone the repository to your local machine:
