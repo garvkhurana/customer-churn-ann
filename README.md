@@ -32,7 +32,8 @@ Visualized key metrics such as accuracy, loss, precision-recall curve, and confu
 Derived insights and actionable recommendations for reducing customer churn.
 Getting Started
 
-Here I have also deployed this project at local hosting through Flask:
+Here I have also deployed this project at local hosting through Flask and on cloud as well the link of the project is:
+https://davni.onrender.com
 
 To replicate the results of this project or explore the implementation further, follow these steps:
 
